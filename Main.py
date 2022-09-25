@@ -141,4 +141,4 @@ async def stats(interaction: discord.Interaction, clothes_id: int):
 	except:
 		await interaction.response.send_message("Error when loading of the clothes !", ephemeral=True)
 		
-bot.run("OTg1MTQ1NjcyNjkwOTg3MDA4.G4lZQr.OIqxb6rNI5hnAyEHteZpbgQdrYcmhE897jSUpo")
+bot.run("Your_token")
